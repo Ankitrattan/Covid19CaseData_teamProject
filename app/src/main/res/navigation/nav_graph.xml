@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/listFragment">
+
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="com.cst2335.covid19casedata_teamproject.ui.fragment.CaseDataListFragment"
+        android:label="@string/casedata_list"
+        tools:layout="@layout/fragment_casedata_list">
+
+        <action
+            android:id="@+id/action_listFragment_to_DetailFragment"
+            app:destination="@id/DetailFragment">
+
+            <argument
+                android:name="country"
+                app:argType="string"/>
+
+            <argument
+                android:name="date"
+                app:argType="string"/>
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/DetailFragment"
+        android:name="com.cst2335.covid19casedata_teamproject.ui.fragment.CaseDataDetailFragment"
+        android:label="@string/detail"
+        tools:layout="@layout/fragment_casedata_detail">
+
+        <action
+            android:id="@+id/action_DetailFragment_to_ListFragment"
+            app:destination="@id/listFragment" />
+    </fragment>
+</navigation>

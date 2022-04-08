@@ -3,14 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/drawable/ic_arrow.xml" value="0.2195" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/drawable/ic_delete.xml" value="0.1545" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/drawable/ic_fav_menu.xml" value="0.1545" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/drawable/ic_help.xml" value="0.1" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/drawable/ic_language.xml" value="0.2195" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2195" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2195" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/drawable/ic_list.xml" value="0.2195" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/layout/activity_fragment_casedata_detail.xml" value="0.296875" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/layout/activity_home.xml" value="0.3" />
         <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/layout/activity_main.xml" value="0.3" />
-        <entry key="..\:/Users/DELL/Downloads/Covid19CaseData_teamProject/app/src/main/res/layout/activity_case_data_list.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/DELL/Downloads/Covid19CaseData_teamProject/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/DELL/Downloads/Covid19CaseData_teamProject/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/DELL/Downloads/Covid19CaseData_teamProject/app/src/main/res/layout/content_case_data_list.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/DELL/Downloads/Covid19CaseData_teamProject/app/src/main/res/layout/dialig_language_selection.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/DELL/Downloads/Covid19CaseData_teamProject/app/src/main/res/layout/listrow_casedata.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/DELL/Downloads/Covid19CaseData_teamProject/app/src/main/res/layout/listrow_province.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/layout/content_case_data_list.xml" value="0.3" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/layout/dialig_language_selection.xml" value="0.3" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/layout/fragment_casedata_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/layout/fragment_casedata_list.xml" value="0.296875" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/layout/listrow_casedata.xml" value="0.3" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/layout/listrow_province.xml" value="0.3" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/layout/menu_nav_drawer.xml" value="0.2994791666666667" />
+        <entry key="..\:/Users/Ankit/Covid19CaseData_teamProject/app/src/main/res/menu/menu_home.xml" value="0.2994791666666667" />
       </map>
     </option>
   </component>

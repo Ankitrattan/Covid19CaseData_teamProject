@@ -1,3 +1,40 @@
 <resources>
-    <string name="app_name">Covid19CaseData_teamProject</string>
+    <string name="app_name" translatable="false">Covid19CaseData</string>
+    <string name="enter_country">Enter Country</string>
+    <string name="country">Country</string>
+    <string name="from_date">From Date</string>
+    <string name="choose_from_date">Choose From Date</string>
+    <string name="choose_to_date">Choose To Date</string>
+    <string name="to_date">To Date</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="url" translatable="false">https://api.covid19api.com/country/%1$s/status/confirmed/live?from=%2$s&amp;to=%3$s</string>
+    <string name="title_activity_case_data_list" translatable="false">CaseDataListActivity</string>
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+    <string name="add">Add</string>
+    <string name="help">Help</string>
+    <string name="home_help_message">Enter country name and choose from_to date to save data to sqlite database</string>
+    <string name="casedata_list" translatable="false">CaseDataList</string>
+    <string name="detail" translatable="false">Detail</string>
+    <string name="recent_search">Recent Search</string>
+    <string name="_country">Country:</string>
+    <string name="_from_date">From Date: </string>
+    <string name="_to_date">To Date: </string>
+    <string name="_country_value">Country: %1$s</string>
+    <string name="_from_date_value">From Date: %1$s</string>
+    <string name="_to_date_value">To Date: %1$s</string>
+    <string name="confirm" translatable="false">Confirm</string>
+    <string name="delete_msg" translatable="false">Are you sure to delete?</string>
+    <string name="nav_open" translatable="false">open</string>
+    <string name="nav_close" translatable="false">close</string>
+    <string name="choose_the_language" translatable="false">Choose the language</string>
+    <string name="english" translatable="false">English</string>
+    <string name="french" translatable="false" >French</string>
+    <string name="change" translatable="false">Change</string>
+    <string name="deleteimage">delete</string>
+    <string name="list">List</string>
+    <string name="lanugage">Lanugage</string>
+    <string name="saved_list">Saved List</string>
 </resources>

@@ -11,7 +11,7 @@
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:theme="@style/Theme.Covid19CaseData.AppBarOverlay">
+        android:theme="@style/Theme.Covid19CaseData_teamProject.AppBarOverlay">
 
 
         <androidx.appcompat.widget.Toolbar
@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="?attr/colorPrimary"
-            app:popupTheme="@style/Theme.Covid19CaseData.PopupOverlay" />
+            app:popupTheme="@style/Theme.Covid19CaseData_teamProject.PopupOverlay" />
 
 
     </com.google.android.material.appbar.AppBarLayout>

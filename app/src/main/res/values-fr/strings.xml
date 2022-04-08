@@ -1,0 +1,22 @@
+<resources>
+    <string name="enter_country">Entrez le pays</string>
+    <string name="country">De campagne</string>
+    <string name="from_date">Partir de la date</string>
+    <string name="choose_from_date">Choisissez la date de départ</string>
+    <string name="choose_to_date">Choisissez à ce jour</string>
+    <string name="to_date">À ce jour</string>
+    <string name="add">Ajouter</string>
+    <string name="help">Aider</string>
+    <string name="recent_search">Recherche récente</string>
+    <string name="home_help_message">Entrez le nom du pays et choisissez la date from_to pour enregistrer les données dans la base de données sqlite</string>
+    <string name="_country">De campagne:</string>
+    <string name="_from_date">Partir de la date: </string>
+    <string name="_to_date">À ce jour: </string>
+    <string name="_country_value">De campagne: %1$s</string>
+    <string name="_from_date_value">Partir de la date: %1$s</string>
+    <string name="_to_date_value">Partir de la date: %1$s</string>
+    <string name="deleteimage">delete</string>
+    <string name="list">List</string>
+    <string name="lanugage">Lanugage</string>
+    <string name="saved_list">Saved List</string>
+</resources>

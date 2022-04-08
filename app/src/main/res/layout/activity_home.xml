@@ -31,10 +31,12 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:hint="@string/country"
+            android:autofillHints=""
             android:inputType="textCapCharacters"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/txt_country" />
+            app:layout_constraintTop_toBottomOf="@id/txt_country"
+            />
 
         <TextView
             android:id="@+id/txt_from_date"
@@ -52,6 +54,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
+            android:autofillHints=""
             android:focusable="false"
             android:focusableInTouchMode="false"
             android:hint="@string/from_date"
@@ -77,6 +80,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:focusable="false"
+            android:autofillHints=""
             android:focusableInTouchMode="false"
             android:hint="@string/to_date"
             android:inputType="date"
@@ -128,6 +132,7 @@
                     android:layout_height="wrap_content"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
+                    android:contentDescription="arrow icon"
                     android:src="@drawable/ic_arrow"
                     android:layout_marginEnd="10dp"
                     app:layout_constraintBottom_toTopOf="@id/border"/>
